@@ -13,7 +13,7 @@ provider "null" {
 
 /* a list of local variables */
 locals {
-  jones = ["indy", "henry", "marian", "shortround", "ok"]
+  jones = ["indy", "henry", "marian", "sallah"]
   trigger_destroy = true
 }
 
